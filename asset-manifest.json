@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Apsanishant/call/static/css/main.58427d0d.css",
+    "main.js": "/Apsanishant/call/static/js/main.f79820f3.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Apsanishant/call/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Apsanishant/call/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Apsanishant/call/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Apsanishant/call/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Apsanishant/call/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Apsanishant/call/index.html",
+    "main.58427d0d.css.map": "/Apsanishant/call/static/css/main.58427d0d.css.map",
+    "main.f79820f3.js.map": "/Apsanishant/call/static/js/main.f79820f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58427d0d.css",
+    "static/js/main.f79820f3.js"
+  ]
+}
